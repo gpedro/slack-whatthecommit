@@ -1,6 +1,6 @@
 # slack-whatthecommit
 A commit message generator for Slack!
-![whatthecommit preview](blob:https://imgur.com/a09c66ed-4e78-47c1-8f8f-59a8fee95b7a)
+![whatthecommit preview](https://i.imgur.com/AxAZyXY.png)
 
 ## Paramêtros
 To avoid spams, you can use a query param `allowed_channels` e to restrict channels allowed to execute these commands.
