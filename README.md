@@ -1,5 +1,6 @@
 # slack-whatthecommit
 A commit message generator for Slack!
+
 ![whatthecommit preview](https://i.imgur.com/AxAZyXY.png)
 
 ## Paramêtros
